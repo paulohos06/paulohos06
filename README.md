@@ -8,8 +8,7 @@
 const paulohos06 {
  name: "Paulo Henrique",
  nickname: "@paulohos06",
- local: "Brasilia/DF, Brazil",
- 
+ local: "Brasilia/DF, Brazil" 
 };
 ```
 
